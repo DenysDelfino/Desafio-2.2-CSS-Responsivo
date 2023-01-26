@@ -1,0 +1,91 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+section {
+    margin: 44px 0 144px 76px;
+}
+
+.link-menu {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: #989D9C;
+    cursor: pointer;
+    margin-right: 23px;
+}
+
+.log-in {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: #ffffff;
+    background: #665AE1;
+    border-radius: 20.5px;
+    height: 41px;
+    width: 130px;
+    cursor: pointer;
+    border: none;
+}
+
+.img-logo {
+    width: 568px;
+    height: 500px;
+    margin: 217px 86px 183px 125px;
+}
+
+div {
+    display: flex;
+}
+
+.textos {
+    display: block;
+    }
+
+h1 {
+    font-weight: 900;
+    font-size: 100px;
+    line-height: 122px;
+    color: #515151;
+    margin-top: 217px;
+    margin-right: 148px;
+}
+
+h2 {
+    font-weight: 500;
+    font-size: 58px;
+    line-height: 71px;
+    color: #515151;
+    margin-right: 213px;
+    margin-bottom: 32px;
+}
+
+p {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: #848484;
+    text-align: center;
+    justify-content: center;
+    margin-right: 145px;
+    margin-bottom: 65px;
+    width: 515px;
+    height: 87px;
+
+}
+
+.explore {
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 34px;
+    color: #000000;
+    background: #ADFF00;
+    border-radius: 20.5px;
+    Width: 239px;
+    Height: 64px;
+    cursor: pointer;
+    border: none;
+}
